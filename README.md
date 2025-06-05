@@ -20,18 +20,18 @@ sono **temporaneamente disattivate o non implementate** per facilitare la correz
 
 ### Novità
 
-- 🔁 Il **logo** è stato aggiornato
+- 🔁 Il **logo** è stato aggiornato  
 - ⚙️ Introdotto il **KHT_SETUP** per facilitare l’installazione da parte dell’operatore
 
 ---
 
 ## Requisiti di Sistema
 
-- ☕ **Java 17** installato
-- ✅ **JRE minimo**: 1.0.4
-- 🪟 **Compatibile con**: Windows 10 e 11 (32/64 bit)
+- ☕ **Java 17** installato  
+- ✅ **JRE minimo**: 1.0.4  
+- 🪟 **Compatibile con**: Windows 10 e 11 (32/64 bit)  
 - 💾 **RAM**: 4GB minimo  
-- 🗂️ **ROM**: 10MB libero
+- 🗂️ **ROM**: 10MB libero  
 
 ---
 
@@ -45,9 +45,18 @@ Se si desidera usare la **proiezione su un secondo schermo**, è **fortemente co
 
 KH Timer può essere eseguito anche su **macOS**, ma:
 
-- ⚠️ **Non è stata ottimizzata** per quel sistema operativo
-- ❌ Potrebbero verificarsi **errori o comportamenti inattesi**
-- 🛑 **Nessun piano attuale** per una *stable release* su macOS
+- ⚠️ **Non è stata ottimizzata** per quel sistema operativo  
+- ❌ Potrebbero verificarsi **errori o comportamenti inattesi**  
+- 🛑 **Nessun piano attuale** per una *stable release* su macOS  
+
+---
+
+## 📥 Download
+
+Puoi scaricare l'ultima versione di KH Timer da qui:  
+🔗 [Download KHT_SETUP.exe](https://github.com/diegoisme-dev/KH-Timer/releases/latest/download/KHT_SETUP.exe)
+
+> Se il link non funziona, visita direttamente la pagina delle [Releases](https://github.com/diegoisme-dev/KH-Timer/releases)
 
 ---
 
