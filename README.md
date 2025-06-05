@@ -66,5 +66,5 @@ Gli aggiornamenti saranno pubblicati sul repository ufficiale GitHub:
 👉 [https://github.com/diegoisme-dev/KH-Timer](https://github.com/diegoisme-dev/KH-Timer)
 
 ---
-
+Per segnalare miglioramenti o bug si rega di scrivere a questa email: diesse912@gmail.com
 > *Sviluppato e testato da Diego.*
