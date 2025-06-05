@@ -54,7 +54,7 @@ KH Timer può essere eseguito anche su **macOS**, ma:
 ## 📥 Download
 
 Puoi scaricare l'ultima versione di KH Timer da qui:  
-🔗 [Download KHT_SETUP.exe](https://github.com/diegoisme-dev/KH-Timer/releases/latest/download/KHT_SETUP.exe)
+🔗 [Download KHT_SETUP.exe](https://github.com/diegoisme-dev/KH-Timer/archive/refs/tags/0.1.zip)
 
 > Se il link non funziona, visita direttamente la pagina delle [Releases](https://github.com/diegoisme-dev/KH-Timer/releases)
 
