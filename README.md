@@ -1,6 +1,6 @@
 # KH TIMER - KINGDOM HALL TIMER
 
-**DEBUG TEST KH DIEGO VERSION 0.1**  
+**DEBUG TEST KH DIEGO VERSION 0.1.3-alpha**  
 UUID: `a07ace60-9180-42d9-bb48-c3123b4c9ce3`
 
 ---
@@ -54,7 +54,7 @@ KH Timer può essere eseguito anche su **macOS**, ma:
 ## 📥 Download
 
 Puoi scaricare l'ultima versione di KH Timer da qui:  
-🔗 [Download KHT_SETUP.exe](https://github.com/diegoisme-dev/KH-Timer/archive/refs/tags/0.1.zip)
+🔗 [Download KHT_setup0.1.3.zip](https://github.com/diegoisme-dev/KH-Timer/archive/refs/tags/0.1.3-alpha.zip)
 
 > Se il link non funziona, visita direttamente la pagina delle [Releases](https://github.com/diegoisme-dev/KH-Timer/releases)
 
@@ -66,5 +66,5 @@ Gli aggiornamenti saranno pubblicati sul repository ufficiale GitHub:
 👉 [https://github.com/diegoisme-dev/KH-Timer](https://github.com/diegoisme-dev/KH-Timer)
 
 ---
-Per segnalare miglioramenti o bug si prega di scrivere a questa email: diesse912@gmail.com
+Per segnalare bug o richiedere miglioramenti si prega di scrivere a questa email: diesse912@gmail.com
 > *Sviluppato e testato da Diego.*
