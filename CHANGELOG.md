@@ -16,7 +16,7 @@ Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in qu
 
 ---
 
-## [0.1.3-alpha] - 2025-05-XX
+## [0.1.3-alpha] - 2025-05-07
 
 ### ✅ Correzioni
 - Corretti diversi **bug critici** emersi durante le prime fasi di test
