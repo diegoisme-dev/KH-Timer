@@ -2,8 +2,10 @@
 
 **Nome Software**: KH Timer  
 **Autore**: Diego  
-**Versione**: 0.1.3  
+**Versione**: 0.2.0  
 **Ultimo aggiornamento**: Giugno 2025
+
+Copyright © 2025 Diego (diesse912@gmail.com)
 
 ---
 
