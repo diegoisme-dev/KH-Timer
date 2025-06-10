@@ -4,6 +4,19 @@ Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in qu
 
 ---
 
+## [0.2.1-alpha] - 2025-06-10
+
+### 🆕 Novità
+- Aggiunto il **programma del congresso 2025 "Pura Adorazione"**
+- Possibilità di **attivare o disattivare la proiezione** su uno schermo selezionato direttamente dal pannello principale
+- Aggiornamenti allo **stile dell’interfaccia**
+
+### ✅ Correzioni
+- Risolti **bug minori**
+- Ottimizzazione generale del comportamento del pannello principale
+
+---
+
 ## [0.2.0-alpha] - 2025-06-09
 
 ### 🆕 Novità

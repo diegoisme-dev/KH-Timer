@@ -1,6 +1,6 @@
 # KH TIMER - KINGDOM HALL TIMER
 
-**DEBUG TEST KH DIEGO VERSION 0.2.0-alpha**  
+**DEBUG TEST KH DIEGO VERSION 0.2.1-alpha**  
 UUID: `274d4e80-6438-44f4-a292-134cb1a67147`
 
 ---
@@ -20,12 +20,17 @@ sono **temporaneamente disattivate o non implementate** per facilitare la correz
 
 ### Novità
 
-- 🆕 **Nuova versione 0.2.0-alpha!**
-  - ✅ Corretti bug minori e maggiori  
+- 🆕 **Nuova versione 0.2.1-alpha!**
+  - 📄 Aggiunto il programma del congresso 2025 **"Pura Adorazione"**
+  - 🖥️ Attiva/disattiva la **proiezione** su uno schermo selezionato dal pannello principale
+  - 🎨 Aggiornamento allo **stile grafico** generale
+  - 🐞 Risolti bug minori
+
+- 🆕 Dalla versione 0.2.0-alpha:
   - 📥 **Importazione automatica del programma infrasettimanale** con un semplice click  
-  - 🎥 Migliorata la **visualizzazione dello schermo oratore**
-- 🔁 Il **logo** è stato aggiornato  
-- ⚙️ Introdotto il **KHT_SETUP** per facilitare l’installazione da parte dell’operatore
+  - 🎥 Migliorata la **visualizzazione dello schermo oratore**  
+  - 🔁 Aggiornato il **logo**  
+  - ⚙️ Introdotto il **KHT_SETUP** per facilitare l’installazione da parte dell’operatore  
 
 ---
 
@@ -58,7 +63,7 @@ KH Timer può essere eseguito anche su **macOS**, ma:
 ## 📥 Download
 
 Puoi scaricare l'ultima versione di KH Timer da qui:  
-🔗 [Download KHT_setup0.2.0.zip](https://github.com/diegoisme-dev/KH-Timer/archive/refs/tags/0.2.0-alpha.zip)
+🔗 [Download KHT_setup0.2.1.zip](https://github.com/diegoisme-dev/KH-Timer/archive/refs/tags/0.2.1-alpha.zip)
 
 > Se il link non funziona, visita direttamente la pagina delle [Releases](https://github.com/diegoisme-dev/KH-Timer/releases)
 
@@ -70,5 +75,6 @@ Gli aggiornamenti saranno pubblicati sul repository ufficiale GitHub:
 👉 [https://github.com/diegoisme-dev/KH-Timer](https://github.com/diegoisme-dev/KH-Timer)
 
 ---
+
 Per segnalare bug o richiedere miglioramenti si prega di scrivere a questa email: diesse912@gmail.com  
 > *Sviluppato e testato da Diego.*
