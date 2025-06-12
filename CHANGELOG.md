@@ -3,8 +3,16 @@
 Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in questo file.
 
 ---
+## [0.2.2-alpha] - 12-06-2025
 
-## [0.2.1-alpha] - 2025-06-10
+### ✅ Correzioni
+- Risolti **bug minori**
+- Ottimizzazione generale del comportamento del pannello principale
+- Risolto bug per il tasto di proiezione sul secondo schermo
+
+---
+
+## [0.2.1-alpha] - 10-06-2025
 
 ### 🆕 Novità
 - Aggiunto il **programma del congresso 2025 "Pura Adorazione"**
@@ -17,7 +25,7 @@ Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in qu
 
 ---
 
-## [0.2.0-alpha] - 2025-06-09
+## [0.2.0-alpha] - 09-06-2025
 
 ### 🆕 Novità
 - Implementata una **nuova funzione** che consente l'**importazione automatica del programma infrasettimanale** con un solo click
@@ -29,7 +37,7 @@ Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in qu
 
 ---
 
-## [0.1.3-alpha] - 2025-05-07
+## [0.1.3-alpha] - 07-05-2025
 
 ### ✅ Correzioni
 - Corretti diversi **bug critici** emersi durante le prime fasi di test
