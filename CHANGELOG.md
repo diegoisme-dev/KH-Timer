@@ -3,6 +3,29 @@
 Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in questo file.
 
 ---
+## [1.0.0] - 15-06-2025
+
+### 🟢 Prima versione ufficiale (non beta)
+- Rimozione dello stato "alpha/beta": questa è la prima release stabile e ufficiale
+- Migliorata la stabilità generale e risolti numerosi bug
+- Ottimizzazione delle prestazioni e della gestione delle risorse
+- Interfaccia grafica aggiornata e più moderna
+- Proiezione su secondo schermo migliorata e selezionabile
+- Importazione automatica del programma infrasettimanale da WOL (Watchtower Online Library)
+- Aggiunto programma del congresso 2025 "Pura Adorazione"
+- Gestione avanzata della musica di sottofondo (lettore MP3 integrato)
+- Visualizzazione orologio analogico/digitale e timer su schermo esterno
+- Possibilità di mostrare/nascondere orari delle parti
+- Migliorata la gestione dei cantici e delle parti speciali
+- Supporto per il controllo remoto (server integrato)
+- Migliorata la gestione delle impostazioni e salvataggio automatico
+- Aggiornamento automatico: controllo nuove versioni da GitHub
+- Esportazione report CSV e gestione avanzata dei dati
+- Ottimizzazione per multi-monitor e compatibilità Windows/macOS
+- Migliorata accessibilità e adattamento dinamico dei font
+- Correzione di bug minori e ottimizzazione generale
+
+---
 ## [0.2.2-alpha] - 12-06-2025
 
 ### ✅ Correzioni

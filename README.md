@@ -1,36 +1,32 @@
 # KH TIMER - KINGDOM HALL TIMER
 
-**DEBUG TEST KH DIEGO VERSION 0.2.2-alpha**  
-UUID: `274d4e80-6438-44f4-a292-134cb1a67147`
+**VERSIONE UFFICIALE 1.0.0**  
+UUID: `f40a50bf-267d-4466-880b-e21c423caa75`
 
 ---
 
 ## Descrizione
 
-Prima versione di KH Timer. Il codice implementato è stato **testato solo in locale** e **non ancora utilizzato durante un’adunanza reale**.
+KH Timer è un software avanzato per la gestione del tempo e delle attività durante le adunanze e i congressi nelle Sale del Regno. Questa è la **prima versione stabile e ufficiale** (non più alpha/beta).
 
-Durante lo sviluppo sono stati **trovati e risolti diversi bug**, sia maggiori che minori.
+### Novità principali della versione 1.0.0
 
-Alcune funzionalità, come:
-
-- **STILE**
-- **MESSAGGI ORATORE**
-
-sono **temporaneamente disattivate o non implementate** per facilitare la correzione di bug. Verranno reintrodotte in versioni successive.
-
-### Novità
-
-- 🆕 **Nuova versione 0.2.1-alpha!**
-  - 📄 Aggiunto il programma del congresso 2025 **"Pura Adorazione"**
-  - 🖥️ Attiva/disattiva la **proiezione** su uno schermo selezionato dal pannello principale
-  - 🎨 Aggiornamento allo **stile grafico** generale
-  - 🐞 Risolti bug minori
-
-- 🆕 Dalla versione 0.2.0-alpha:
-  - 📥 **Importazione automatica del programma infrasettimanale** con un semplice click  
-  - 🎥 Migliorata la **visualizzazione dello schermo oratore**  
-  - 🔁 Aggiornato il **logo**  
-  - ⚙️ Introdotto il **KHT_SETUP** per facilitare l’installazione da parte dell’operatore  
+- Prima release stabile: rimosso lo stato "alpha/beta"
+- Interfaccia grafica moderna e ottimizzata
+- Proiezione su secondo schermo migliorata e selezionabile
+- Importazione automatica del programma infrasettimanale da WOL (Watchtower Online Library)
+- Aggiunto programma del congresso 2025 "Pura Adorazione"
+- Lettore MP3 integrato per musica di sottofondo
+- Visualizzazione orologio analogico/digitale e timer su schermo esterno
+- Possibilità di mostrare/nascondere orari delle parti
+- Gestione avanzata dei cantici e delle parti speciali
+- Supporto per il controllo remoto (server integrato)
+- Migliorata la gestione delle impostazioni e salvataggio automatico
+- Aggiornamento automatico: controllo nuove versioni da GitHub
+- Esportazione report CSV e gestione avanzata dei dati
+- Ottimizzazione per multi-monitor e compatibilità Windows/macOS
+- Migliorata accessibilità e adattamento dinamico dei font
+- Correzione di bug minori e ottimizzazione generale
 
 ---
 
@@ -63,7 +59,7 @@ KH Timer può essere eseguito anche su **macOS**, ma:
 ## 📥 Download
 
 Puoi scaricare l'ultima versione di KH Timer da qui:  
-🔗 [Download KHT_setup0.2.2.zip](https://github.com/diegoisme-dev/KH-Timer/archive/refs/tags/0.2.2-alpha.zip)
+🔗 [Download KHT_setup1.0.0.zip](https://github.com/diegoisme-dev/KH-Timer/archive/refs/tags/1.0.0.zip)
 
 > Se il link non funziona, visita direttamente la pagina delle [Releases](https://github.com/diegoisme-dev/KH-Timer/releases)
 
