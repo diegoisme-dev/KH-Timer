@@ -1,1 +1,2 @@
-TEST WARNING.txt
+Il Team di KH Timer sta lavorando ad un bug appena segnalato il cui programma delle adunanze del 2026 non viene mostrato ne scaricato.
+Ci scusiamo per il disagio e vi ringraziamo per la pazienza!
