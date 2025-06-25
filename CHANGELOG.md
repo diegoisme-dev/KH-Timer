@@ -3,6 +3,23 @@
 Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in questo file.
 
 ---
+
+## [1.2.0] - 15-06-2025
+
+### 🟢 Correzzioni e Miglioramenti
+- Interfaccia grafica moderna e ottimizzata
+- Importazione automatica del programma infrasettimanale da WOL migliorato(Watchtower Online Library)
+- Supporto per il controllo remoto migliorato per la grafica e scelta delle porte, aggiunta anche la password (server integrato)
+- Migliorata la gestione delle impostazioni e salvataggio automatico
+- Aggiornamento automatico: controllo nuove versioni da GitHub
+- Ottimizzazione per multi-monitor e compatibilità Windows/macOS
+- Migliorata accessibilità e adattamento dinamico dei font
+- Stile in generale migliorato
+- Correzione di bug minori e ottimizzazione generale
+- Risolto il bug che comportava l'apertura a schermo intero del tempo sul monitor principale recando problemi
+
+---
+
 ## [1.0.0] - 15-06-2025
 
 ### 🟢 Prima versione ufficiale (non beta)

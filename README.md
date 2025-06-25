@@ -9,23 +9,16 @@ UUID: `f40a50bf-267d-4466-880b-e21c423caa75`
 
 KH Timer è un software avanzato per la gestione del tempo e delle attività durante le adunanze e i congressi nelle Sale del Regno. Questa è la **prima versione stabile e ufficiale** (non più alpha/beta).
 
-### Novità principali della versione 1.0.0
+### Novità principali della versione 1.1.2
 
-- Prima release stabile: rimosso lo stato "alpha/beta"
 - Interfaccia grafica moderna e ottimizzata
-- Proiezione su secondo schermo migliorata e selezionabile
-- Importazione automatica del programma infrasettimanale da WOL (Watchtower Online Library)
-- Aggiunto programma del congresso 2025 "Pura Adorazione"
-- Lettore MP3 integrato per musica di sottofondo
-- Visualizzazione orologio analogico/digitale e timer su schermo esterno
-- Possibilità di mostrare/nascondere orari delle parti
-- Gestione avanzata dei cantici e delle parti speciali
-- Supporto per il controllo remoto (server integrato)
+- Importazione automatica del programma infrasettimanale da WOL migliorato(Watchtower Online Library)
+- Supporto per il controllo remoto migliorato per la grafica e scelta delle porte, aggiunta anche la password (server integrato)
 - Migliorata la gestione delle impostazioni e salvataggio automatico
 - Aggiornamento automatico: controllo nuove versioni da GitHub
-- Esportazione report CSV e gestione avanzata dei dati
 - Ottimizzazione per multi-monitor e compatibilità Windows/macOS
 - Migliorata accessibilità e adattamento dinamico dei font
+- Stile in generale migliorato
 - Correzione di bug minori e ottimizzazione generale
 
 ---
@@ -59,7 +52,7 @@ KH Timer può essere eseguito anche su **macOS**, ma:
 ## 📥 Download
 
 Puoi scaricare l'ultima versione di KH Timer da qui:  
-🔗 [Download KHT_setup1.0.0.zip](https://github.com/diegoisme-dev/KH-Timer/archive/refs/tags/1.0.0.zip)
+🔗 [Download KHT_setup1.2.0.exe](https://github.com/diegoisme-dev/KH-Timer/archive/refs/tags/1.0.0.zip)
 
 > Se il link non funziona, visita direttamente la pagina delle [Releases](https://github.com/diegoisme-dev/KH-Timer/releases)
 
