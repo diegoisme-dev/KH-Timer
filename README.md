@@ -1,6 +1,6 @@
 # KH TIMER - KINGDOM HALL TIMER
 
-**VERSIONE UFFICIALE 1.0.0**  
+**VERSIONE UFFICIALE 1.2.0**  
 UUID: `f40a50bf-267d-4466-880b-e21c423caa75`
 
 ---
@@ -9,7 +9,7 @@ UUID: `f40a50bf-267d-4466-880b-e21c423caa75`
 
 KH Timer è un software avanzato per la gestione del tempo e delle attività durante le adunanze e i congressi nelle Sale del Regno. Questa è la **prima versione stabile e ufficiale** (non più alpha/beta).
 
-### Novità principali della versione 1.1.2
+### Novità principali della versione 1.2.0
 
 - Interfaccia grafica moderna e ottimizzata
 - Importazione automatica del programma infrasettimanale da WOL migliorato(Watchtower Online Library)
@@ -52,7 +52,7 @@ KH Timer può essere eseguito anche su **macOS**, ma:
 ## 📥 Download
 
 Puoi scaricare l'ultima versione di KH Timer da qui:  
-🔗 [Download KHT_setup1.2.0.exe](https://github.com/diegoisme-dev/KH-Timer/archive/refs/tags/1.2.0.zip)
+🔗 [Download KHT_setup1.2.0.exe](https://github.com/diegoisme-dev/KH-Timer/releases/download/1.2.0/KHT_setup1.2.0.exe)
 
 > Se il link non funziona, visita direttamente la pagina delle [Releases](https://github.com/diegoisme-dev/KH-Timer/releases)
 
