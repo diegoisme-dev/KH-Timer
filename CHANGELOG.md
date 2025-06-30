@@ -4,7 +4,15 @@ Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in qu
 
 ---
 
-## [1.2.0] - 15-06-2025
+## [1.2.1] - 30-06-2025
+
+### 🟢 Correzzioni e Miglioramenti
+- Introdotti nuovamente i messaggi oratore
+- Risolti bug minori
+
+---
+
+## [1.2.0] - 20-06-2025
 
 ### 🟢 Correzzioni e Miglioramenti
 - Interfaccia grafica moderna e ottimizzata
