@@ -4,6 +4,27 @@ Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in qu
 
 ---
 
+## [1.3.0] - 10-07-2025
+
+### 🟢 Correzzioni e Miglioramenti
+- Risolti bug minori
+- Risolto bug che cambiava l'ordine dei monitor e rendeva problematica l'accensione di KH Timer
+- Risolto bug che non permetteva a KH Timer di avanzare verso il cantico ad adunanza iniziata
+- Risolto bug visivo che mostrava il timer in maniera piccola e con l'orario sbagliato d'inizio nella preview operatore
+- Aggiunte nuove funzionalità che verranno svelate in futuro
+- Sistema di tracking delle azioni dell'operatore visualizzabile nei logs nella cartella di installazione
+- Cantici e commenti introduttivi/conclusivi separati nel programma importato
+
+---
+
+## [1.2.2] - 01-07-2025
+
+### 🟢 Correzzioni
+- Bug visivo messaggi oratore risolto
+- Risolti bug minori
+
+---
+
 ## [1.2.1] - 30-06-2025
 
 ### 🟢 Correzzioni e Miglioramenti
