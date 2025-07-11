@@ -27,7 +27,7 @@ KH Timer è un software avanzato per la gestione del tempo e delle attività dur
 - ✅ **JRE minimo**: 1.0.4  
 - 🪟 **Compatibile con**: Windows 10 e 11 (32/64 bit)  
 - 💾 **RAM**: 4GB minimo  
-- 🗂️ **ROM**: 10MB libero  
+- 🗂️ **ROM**: 150MB libero  
 
 ---
 
