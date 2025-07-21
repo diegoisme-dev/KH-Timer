@@ -4,6 +4,20 @@ Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in qu
 
 ---
 
+## [1.3.2] - 21-07-2025
+
+### 🆕 Novità
+- Migliorata animazione iniziale
+
+---
+
+## [1.3.1] - 21-07-2025
+
+### 🆕 Novità
+- Bug minori risolti
+
+---
+
 ## [1.3.0] - 10-07-2025
 
 ### 🟢 Correzzioni e Miglioramenti
