@@ -18,7 +18,7 @@ KH Timer è un software avanzato per la gestione del tempo e delle attività dur
 ## Requisiti di Sistema
 
 - ☕ **Java 17** installato  
-- ✅ **JRE minimo**: 1.0.4  
+- ✅ **JRE minimo**: 17 
 - 🪟 **Compatibile con**: Windows 10 e 11 (32/64 bit)  
 - 💾 **RAM**: 4GB minimo  
 - 🗂️ **ROM**: 150MB libero  
@@ -28,16 +28,6 @@ KH Timer è un software avanzato per la gestione del tempo e delle attività dur
 ## ⚠️ Nota Importante
 
 Se si desidera usare la **proiezione su un secondo schermo**, è **fortemente consigliato** l’utilizzo di una **scheda video e una CPU in grado di supportare più monitor**, soprattutto in ambienti dove un **singolo computer deve gestire fino a 6 monitor contemporaneamente** durante le adunanze.
-
----
-
-## Compatibilità con macOS
-
-KH Timer può essere eseguito anche su **macOS**, ma:
-
-- ⚠️ **Non è stata ottimizzata** per quel sistema operativo  
-- ❌ Potrebbero verificarsi **errori o comportamenti inattesi**  
-- 🛑 **Nessun piano attuale** per una *stable release* su macOS  
 
 ---
 
@@ -57,5 +47,5 @@ Gli aggiornamenti saranno pubblicati sul repository ufficiale GitHub:
 
 ---
 
-Per segnalare bug o richiedere miglioramenti si prega di scrivere a questa email: diesse912@gmail.com  
+Per segnalare bug o richiedere miglioramenti si prega di scrivere a questa email: diegosantone.dev@gmail.com  
 > *Sviluppato e testato da Diego.*
