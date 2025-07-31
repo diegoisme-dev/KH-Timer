@@ -4,6 +4,14 @@ Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in qu
 
 ---
 
+## [1.3.3] - 27-07-2025
+
+### 🆕 Novità
+- Aggiornata la funzione che recuperava i monitor disponibili, cosi facendo si è risolto un bug che in base all'ordine di accensione dei monitor cambiava il monitor su cui proiettava il Timer. 
+Adesso prende in tempo reale i dati sempre aggiornati, basandosi su un codice univoco del monitor che viene affidato da Windows e rimane uguale sempre.
+
+---
+
 ## [1.3.2] - 21-07-2025
 
 ### 🆕 Novità
