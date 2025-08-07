@@ -33,7 +33,7 @@ Se si desidera usare la **proiezione su un secondo schermo**, è **fortemente co
 ## 📥 Download
 
 Puoi scaricare l'ultima versione di KH Timer da qui:  
-🔗 [Download KHT_1.3.4_setup.exe](https:github.com/diegoisme-dev/KH-Timer/releases/download/1.3.4/KHT_setup_1.3.4.exe)
+🔗 [Download KHT_1.3.4_setup.exe](https://github.com/diegoisme-dev/KH-Timer/releases/download/1.3.4/KHT_setup_1.3.4.exe)
 
 > Se il link non funziona, visita direttamente la pagina delle [Releases](https://github.com/diegoisme-dev/KH-Timer/releases)
 
