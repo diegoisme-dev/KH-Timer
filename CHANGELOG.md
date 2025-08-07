@@ -4,6 +4,13 @@ Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in qu
 
 ---
 
+## [1.3.4] - 07-08-2025
+
+### 🆕 Novità
+- Aggiunta funzionalità, annunci, che verrà usata per trasmettere alle congregazioni informazioni importanti.
+
+---
+
 ## [1.3.3] - 27-07-2025
 
 ### 🆕 Novità
