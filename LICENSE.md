@@ -1,50 +1,50 @@
-# 📜 KH TIMER – LICENZA FREEWARE
+# 📜 KH TIMER – FREEWARE LICENSE
 
-**Nome Software**: KH Timer  
-**Autore**: Diego  
-**Versione**: 1.3.4 
-**Ultimo aggiornamento**: Agosto 2025
+**Software Name**: KH Timer  
+**Author**: Diego  
+**Version**: 2025  
+**Last Update**: September 2025  
 
 Copyright © 2025 Diego (diesse912@gmail.com)
 
 ---
 
-## 1. 📥 Concessione d'Uso
+## 1. 📥 License Grant
 
-KH Timer è distribuito come **freeware**. Ciò significa che può essere:
+KH Timer is distributed as **freeware**. This means it can be:
 
-- ✅ Scaricato gratuitamente  
-- ✅ Utilizzato senza limiti di tempo  
-- ✅ Condiviso liberamente, **purché non venga modificato** in alcun modo
-
----
-
-## 2. ⛔ Restrizioni
-
-Non è consentito:
-
-- ❌ Modificare, decompilare o disassemblare il software  
-- ❌ Ricompilare o creare versioni derivate  
-- ❌ Rimuovere o alterare riferimenti all’autore  
-- ❌ Includere il software in pacchetti commerciali o a pagamento
+- ✅ Downloaded for free  
+- ✅ Used without time limits  
+- ✅ Freely shared, **as long as it is not modified** in any way  
 
 ---
 
-## 3. 🔐 Proprietà
+## 2. ⛔ Restrictions
 
-KH Timer è e rimane **proprietà intellettuale esclusiva dell’autore**.  
-Il codice sorgente, se visibile, è consultabile **solo a scopo informativo**.  
-Il software **non è open source** e **non può essere riutilizzato** in altri progetti.
+It is not allowed to:
 
----
-
-## 4. ⚠️ Garanzie e Responsabilità
-
-Questo software è fornito **“così com’è”**, senza garanzie di funzionamento, stabilità o idoneità a uno scopo specifico.  
-**L’autore non è responsabile per danni diretti o indiretti** derivanti dall’uso del programma.
+- ❌ Modify, decompile, or disassemble the software  
+- ❌ Recompile or create derivative versions  
+- ❌ Remove or alter references to the author  
+- ❌ Include the software in commercial or paid packages  
 
 ---
 
-## 5. ✅ Accettazione
+## 3. 🔐 Ownership
 
-L’utilizzo del software implica l’**accettazione piena e incondizionata** di tutti i termini e le condizioni sopra elencati.
+KH Timer is and remains the **exclusive intellectual property of the author**.  
+The source code, if visible, may be consulted **for informational purposes only**.  
+The software is **not open source** and **may not be reused** in other projects.  
+
+---
+
+## 4. ⚠️ Warranties and Liability
+
+This software is provided **“as is”**, without warranties of operation, stability, or fitness for a specific purpose.  
+**The author shall not be held liable for direct or indirect damages** resulting from the use of the program.  
+
+---
+
+## 5. ✅ Acceptance
+
+The use of the software implies **full and unconditional acceptance** of all the terms and conditions listed above.

@@ -1,157 +1,168 @@
 # 📋 CHANGELOG - KH TIMER
 
-Tutte le modifiche rilevanti al progetto **KH Timer** verranno documentate in questo file.
+All relevant changes to the **KH Timer** project will be documented in this file.
+
+---
+
+## [2.0.0] - 01-09-2025
+
+### 🆕 New Features
+- Added 2 new languages to KH Timer: English and Portuguese (BR).
+- Removed programs with "[...] visita Sorvegliante" (Circuit Overseer Visit). Now, simply click the checkbox at the top right to activate "Circuit Overseer Visit" mode and the program will automatically adjust.
+- Added the 2025-2026 Assembly programs "Listen to what the spirit says to the congregations" and "Worship God with spirit and truth"! ITALIAN ONLY!
+- Added the Donations section to support the project.
+- Minor bugs fixed.
 
 ---
 
 ## [1.3.4] - 07-08-2025
 
-### 🆕 Novità
-- Aggiunta funzionalità, annunci, che verrà usata per trasmettere alle congregazioni informazioni importanti.
+### 🆕 New Features
+- Added "announcements" feature, which will be used to transmit important information to congregations.
 
 ---
 
 ## [1.3.3] - 27-07-2025
 
-### 🆕 Novità
-- Aggiornata la funzione che recuperava i monitor disponibili, cosi facendo si è risolto un bug che in base all'ordine di accensione dei monitor cambiava il monitor su cui proiettava il Timer. 
-Adesso prende in tempo reale i dati sempre aggiornati, basandosi su un codice univoco del monitor che viene affidato da Windows e rimane uguale sempre.
+### 🆕 New Features
+- Updated the function that retrieved available monitors, thus fixing a bug where the monitor used for projection changed depending on the order in which monitors were turned on.
+Now it always gets up-to-date data in real time, based on a unique monitor code assigned by Windows that always remains the same.
 
 ---
 
 ## [1.3.2] - 21-07-2025
 
-### 🆕 Novità
-- Migliorata animazione iniziale
+### 🆕 New Features
+- Improved initial animation
 
 ---
 
 ## [1.3.1] - 21-07-2025
 
-### 🆕 Novità
-- Bug minori risolti
+### 🆕 New Features
+- Minor bugs fixed
 
 ---
 
 ## [1.3.0] - 10-07-2025
 
-### 🟢 Correzzioni e Miglioramenti
-- Risolti bug minori
-- Risolto bug che cambiava l'ordine dei monitor e rendeva problematica l'accensione di KH Timer
-- Risolto bug che non permetteva a KH Timer di avanzare verso il cantico ad adunanza iniziata
-- Risolto bug visivo che mostrava il timer in maniera piccola e con l'orario sbagliato d'inizio nella preview operatore
-- Aggiunte nuove funzionalità che verranno svelate in futuro
-- Sistema di tracking delle azioni dell'operatore visualizzabile nei logs nella cartella di installazione
-- Cantici e commenti introduttivi/conclusivi separati nel programma importato
+### 🟢 Fixes and Improvements
+- Minor bugs fixed
+- Fixed bug that changed the order of monitors and made starting KH Timer problematic
+- Fixed bug that prevented KH Timer from advancing to the song after the meeting had started
+- Fixed visual bug that showed the timer small and with the wrong start time in the operator preview
+- Added new features to be revealed in the future
+- Operator action tracking system viewable in the logs in the installation folder
+- Songs and introductory/concluding comments separated in the imported program
 
 ---
 
 ## [1.2.2] - 01-07-2025
 
-### 🟢 Correzzioni
-- Bug visivo messaggi oratore risolto
-- Risolti bug minori
+### 🟢 Fixes
+- Visual bug with speaker messages fixed
+- Minor bugs fixed
 
 ---
 
 ## [1.2.1] - 30-06-2025
 
-### 🟢 Correzzioni e Miglioramenti
-- Introdotti nuovamente i messaggi oratore
-- Risolti bug minori
+### 🟢 Fixes and Improvements
+- Speaker messages reintroduced
+- Minor bugs fixed
 
 ---
 
 ## [1.2.0] - 20-06-2025
 
-### 🟢 Correzzioni e Miglioramenti
-- Interfaccia grafica moderna e ottimizzata
-- Importazione automatica del programma infrasettimanale da WOL migliorato(Watchtower Online Library)
-- Supporto per il controllo remoto migliorato per la grafica e scelta delle porte, aggiunta anche la password (server integrato)
-- Migliorata la gestione delle impostazioni e salvataggio automatico
-- Aggiornamento automatico: controllo nuove versioni da GitHub
-- Ottimizzazione per multi-monitor e compatibilità Windows/macOS
-- Migliorata accessibilità e adattamento dinamico dei font
-- Stile in generale migliorato
-- Correzione di bug minori e ottimizzazione generale
-- Risolto il bug che comportava l'apertura a schermo intero del tempo sul monitor principale recando problemi
+### 🟢 Fixes and Improvements
+- Modern and optimized graphical interface
+- Improved automatic import of the midweek program from WOL (Watchtower Online Library)
+- Improved remote control support for graphics and port selection, password added (integrated server)
+- Improved settings management and autosave
+- Automatic update: check for new versions from GitHub
+- Optimization for multi-monitor and Windows/macOS compatibility
+- Improved accessibility and dynamic font adaptation
+- General style improvements
+- Minor bug fixes and general optimization
+- Fixed bug that caused the timer to open fullscreen on the main monitor, causing issues
 
 ---
 
 ## [1.0.0] - 15-06-2025
 
-### 🟢 Prima versione ufficiale (non beta)
-- Rimozione dello stato "alpha/beta": questa è la prima release stabile e ufficiale
-- Migliorata la stabilità generale e risolti numerosi bug
-- Ottimizzazione delle prestazioni e della gestione delle risorse
-- Interfaccia grafica aggiornata e più moderna
-- Proiezione su secondo schermo migliorata e selezionabile
-- Importazione automatica del programma infrasettimanale da WOL (Watchtower Online Library)
-- Aggiunto programma del congresso 2025 "Pura Adorazione"
-- Gestione avanzata della musica di sottofondo (lettore MP3 integrato)
-- Visualizzazione orologio analogico/digitale e timer su schermo esterno
-- Possibilità di mostrare/nascondere orari delle parti
-- Migliorata la gestione dei cantici e delle parti speciali
-- Supporto per il controllo remoto (server integrato)
-- Migliorata la gestione delle impostazioni e salvataggio automatico
-- Aggiornamento automatico: controllo nuove versioni da GitHub
-- Esportazione report CSV e gestione avanzata dei dati
-- Ottimizzazione per multi-monitor e compatibilità Windows/macOS
-- Migliorata accessibilità e adattamento dinamico dei font
-- Correzione di bug minori e ottimizzazione generale
+### 🟢 First official version (not beta)
+- Removed "alpha/beta" status: this is the first stable and official release
+- Improved overall stability and fixed numerous bugs
+- Performance and resource management optimization
+- Updated and more modern graphical interface
+- Improved and selectable projection on second screen
+- Automatic import of the midweek program from WOL (Watchtower Online Library)
+- Added 2025 convention program "Pure Worship"
+- Advanced background music management (integrated MP3 player)
+- Analog/digital clock and timer display on external screen
+- Ability to show/hide part times
+- Improved management of songs and special parts
+- Remote control support (integrated server)
+- Improved settings management and autosave
+- Automatic update: check for new versions from GitHub
+- CSV report export and advanced data management
+- Optimization for multi-monitor and Windows/macOS compatibility
+- Improved accessibility and dynamic font adaptation
+- Minor bug fixes and general optimization
 
 ---
 ## [0.2.2-alpha] - 12-06-2025
 
-### ✅ Correzioni
-- Risolti **bug minori**
-- Ottimizzazione generale del comportamento del pannello principale
-- Risolto bug per il tasto di proiezione sul secondo schermo
+### ✅ Fixes
+- Minor bugs fixed
+- General optimization of the main panel behavior
+- Fixed bug with the projection button for the second screen
 
 ---
 
 ## [0.2.1-alpha] - 10-06-2025
 
-### 🆕 Novità
-- Aggiunto il **programma del congresso 2025 "Pura Adorazione"**
-- Possibilità di **attivare o disattivare la proiezione** su uno schermo selezionato direttamente dal pannello principale
-- Aggiornamenti allo **stile dell’interfaccia**
+### 🆕 New Features
+- Added the **2025 convention program "Pure Worship"**
+- Ability to **enable or disable projection** on a selected screen directly from the main panel
+- Interface style updates
 
-### ✅ Correzioni
-- Risolti **bug minori**
-- Ottimizzazione generale del comportamento del pannello principale
+### ✅ Fixes
+- Minor bugs fixed
+- General optimization of the main panel behavior
 
 ---
 
 ## [0.2.0-alpha] - 09-06-2025
 
-### 🆕 Novità
-- Implementata una **nuova funzione** che consente l'**importazione automatica del programma infrasettimanale** con un solo click
-- Miglioramenti significativi alla **visualizzazione dello schermo oratore**
+### 🆕 New Features
+- Implemented a **new function** that allows **automatic import of the midweek program** with one click
+- Significant improvements to the **speaker screen display**
 
-### ✅ Correzioni
-- Risolti **bug minori e maggiori** riscontrati durante i test locali
-- Ottimizzazioni generali del codice e miglioramento della stabilità
+### ✅ Fixes
+- Minor and major bugs found during local testing fixed
+- General code optimizations and improved stability
 
 ---
 
 ## [0.1.3-alpha] - 07-05-2025
 
-### ✅ Correzioni
-- Corretti diversi **bug critici** emersi durante le prime fasi di test
-- Disattivate temporaneamente alcune funzionalità non stabili
+### ✅ Fixes
+- Several **critical bugs** found during early testing fixed
+- Temporarily disabled some unstable features
 
-### 🔧 Migliorie
-- Aggiornato il **logo** dell’applicazione
-- Introdotto il tool **KHT_SETUP** per semplificare l’installazione da parte dell’operatore
-
----
-
-## 📌 Note
-
-- Le funzionalità **"Stile"** e **"Messaggi Oratore"** sono **temporaneamente disattivate** e saranno reintegrate in una futura release
-- Il software è **attualmente in fase di test locale** e **non ancora utilizzato durante adunanze reali**
+### 🔧 Improvements
+- Updated the **application logo**
+- Introduced the **KHT_SETUP** tool to simplify installation for the operator
 
 ---
 
-*Per segnalare problemi o suggerire miglioramenti: diesse912@gmail.com*
+## 📌 Notes
+
+- The **"Style"** and **"Speaker Messages"** features are **temporarily disabled** and will be reinstated in a future release
+- The software is **currently in local testing** and **not yet used during real meetings**
+
+---
+
+*To report issues or suggest improvements: diesse912@gmail.com*

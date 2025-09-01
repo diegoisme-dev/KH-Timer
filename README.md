@@ -1,50 +1,55 @@
 # KH TIMER - KINGDOM HALL TIMER
 
-**VERSIONE UFFICIALE 1.3.4**  
+**OFFICIAL VERSION 2.0.0**  
 
 ---
 
-## Descrizione
+## Description
 
-KH Timer è un software avanzato per la gestione del tempo e delle attività durante le adunanze e i congressi nelle Sale del Regno.
-La Versione BETA è conclusa!
+KH Timer is an advanced software for managing time and activities during meetings and assemblies in Kingdom Halls.  
+The BETA Version is now finished!  
 
-### Novità principali della versione 1.3.4
+### Main Features of Version 2.0.0
 
-- Aggiunta funzionalità, annunci, che verrà usata per trasmettere alle congregazioni informazioni importanti
----
-
-## Requisiti di Sistema
-
-- ☕ **Java 17** installato  
-- ✅ **JRE minimo**: 17 
-- 🪟 **Compatibile con**: Windows 10 e 11 (32/64 bit)  
-- 💾 **RAM**: 4GB minimo  
-- 🗂️ **ROM**: 150MB libero  
+- Added 2 new languages to KH Timer: English and Portuguese (BR).  
+- Removed programs with "[...] Circuit Overseer Visit". From now on, simply check the box at the top right to enable **Circuit Overseer Visit Mode**, and the program will automatically adapt.  
+- Added the 2025-2026 Assembly programs *“Listen to What the Spirit Says to the Congregations”* and *“Worship God with Spirit and Truth”*! **ITALIAN ONLY!**  
+- Added a **Donations** section to support the project.  
+- Minor bug fixes.  
 
 ---
 
-## ⚠️ Nota Importante
+## System Requirements
 
-Se si desidera usare la **proiezione su un secondo schermo**, è **fortemente consigliato** l’utilizzo di una **scheda video e una CPU in grado di supportare più monitor**, soprattutto in ambienti dove un **singolo computer deve gestire fino a 6 monitor contemporaneamente** durante le adunanze.
+- ☕ **Java 17** installed  
+- ✅ **Minimum JRE**: 17  
+- 🪟 **Compatible with**: Windows 10 and 11 (32/64 bit)  
+- 💾 **RAM**: at least 4GB  
+- 🗂️ **Disk Space**: 20MB free  
+
+---
+
+## ⚠️ Important Note
+
+If you plan to use **projection on a second screen**, it is **strongly recommended** to use a **graphics card and CPU capable of handling multiple monitors**, especially in setups where a **single computer must manage up to 6 monitors simultaneously** during meetings.  
 
 ---
 
 ## 📥 Download
 
-Puoi scaricare l'ultima versione di KH Timer da qui:  
-🔗 [Download KHT_1.3.4_setup.exe](https://github.com/diegoisme-dev/KH-Timer/releases/download/1.3.4/KHT_setup_1.3.4.exe)
+You can download the latest version of KH Timer here:  
+🔗 [Download KHT_2.0.0_setup.exe](https://github.com/diegoisme-dev/KH-Timer/releases/download/2.0.0/KHT_setup_2.0.0.exe)  
 
-> Se il link non funziona, visita direttamente la pagina delle [Releases](https://github.com/diegoisme-dev/KH-Timer/releases)
-
----
-
-## Aggiornamenti
-
-Gli aggiornamenti saranno pubblicati sul repository ufficiale GitHub:  
-👉 [https://github.com/diegoisme-dev/KH-Timer](https://github.com/diegoisme-dev/KH-Timer)
+> If the link does not work, please visit the [Releases](https://github.com/diegoisme-dev/KH-Timer/releases) page directly.  
 
 ---
 
-Per segnalare bug o richiedere miglioramenti si prega di scrivere a questa email: diegosantone.dev@gmail.com  
-> *Sviluppato e testato da Diego.*
+## Updates
+
+Updates will be published on the official GitHub repository:  
+👉 [https://github.com/diegoisme-dev/KH-Timer](https://github.com/diegoisme-dev/KH-Timer)  
+
+---
+
+To report bugs or request improvements, please write to this email: **diegosantone.dev@gmail.com**  
+> *Developed and tested by Diego Santone and Donato Perrone.*

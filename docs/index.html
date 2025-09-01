@@ -3,83 +3,145 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Timer per Adunanze e Congressi dei Testimoni di Geova – KH Timer</title>
-  <meta name="description" content="KH Timer è il software gratuito per gestire il tempo delle adunanze dei Testimoni di Geova (nelle Sale del Regno) e dei congressi annuali. Facile da usare, aggiornamenti continui.">
+  <title>KH Timer – Kingdom Hall Timer</title>
+  <meta name="description" content="KH Timer è un software gratuito per gestire i tempi delle adunanze e dei congressi nelle Sale del Regno. Easy to use, constantly updated.">
   <link rel="icon" type="image/png" href="icon.png">
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
-
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "SoftwareApplication",
-      "name": "KH Timer",
-      "description": "Software gratuito per gestire i tempi delle adunanze dei Testimoni di Geova per le Adunanze, Assemblee e Congressi.",
-      "applicationCategory": "UtilitiesApplication",
-      "operatingSystem": "Windows",
-      "offers": {
-        "@type": "Offer",
-        "price": 0,
-        "priceCurrency": "EUR"
-      },
-      "url": "https://diegoisme-dev.github.io/KH-Timer/"
-    }
-    </script>
-    
-
+  <style>
+    body { font-family: "Roboto", sans-serif; margin:0; padding:0; }
+    .container { display:flex; flex-wrap:wrap; max-width:1200px; margin:0 auto; padding:20px; }
+    .left-col, .right-col { flex:1; min-width:300px; padding:20px; }
+    .version { margin:10px 0; font-size:1.1em; color:#333; }
+    .download-btn { display:inline-block; margin:15px 0; padding:12px 18px; background:#0078d7; color:#fff; text-decoration:none; border-radius:8px; font-weight:bold; }
+    .github-link, .readme-link { display:block; margin-top:10px; color:#0078d7; text-decoration:none; }
+    .section-title { font-weight:bold; margin:16px 0 8px; font-size:1.1em; }
+    .language-switch { position:fixed; top:15px; right:15px; }
+    .language-switch button { margin-left:5px; padding:6px 10px; border:none; border-radius:6px; cursor:pointer; background:#eee; }
+    .language-switch button.active { background:#0078d7; color:#fff; }
+    [data-lang] { display:none; }
+    [data-lang].active { display:block; }
+  </style>
 </head>
 <body>
+  <!-- Selettore lingua -->
+  <div class="language-switch">
+    <button id="btn-it" class="active">🇮🇹 ITA</button>
+    <button id="btn-en">🇬🇧 ENG</button>
+  </div>
+
   <div class="container">
+    <!-- COLONNA SINISTRA -->
     <div class="left-col">
-      <img src="icon.png" alt="Il Logo ufficiale di KH Timer in primo piano" style="width:110px;height:110px;display:block;margin:0 auto 18px auto;border-radius:18px;box-shadow:0 2px 12px #0002;">
-      <h1>KH TIMER - KINGDOM HALL TIMER</h1>
-      <div class="version"><strong>VERSIONE UFFICIALE 1.3.4</strong></div>
-      <div class="info-box">
-        <div class="section-title">Descrizione</div>
-        KH Timer è un software avanzato per la gestione del tempo e delle attività durante le adunanze e i congressi nelle Sale del Regno. Questa è la <strong>prima versione stabile e ufficiale</strong> (non più alpha/beta).<br>
-        <div class="section-title">Novità</div>
-        <ul>
-          <li>Migliorata animazione iniziale</li>
-        </ul>
+      <img src="icon.png" alt="KH Timer Logo" style="width:110px;height:110px;display:block;margin:0 auto 18px auto;border-radius:18px;box-shadow:0 2px 12px #0002;">
+
+      <!-- ITALIANO -->
+      <div data-lang="it" class="active">
+        <h1>KH TIMER - KINGDOM HALL TIMER</h1>
+        <div class="version"><strong>VERSIONE UFFICIALE 2.0.0</strong></div>
+        <div class="info-box">
+          <div class="section-title">Descrizione</div>
+          KH Timer è un software avanzato per la gestione del tempo e delle attività durante le adunanze e i congressi nelle Sale del Regno.  
+          Questa è la <strong>prima versione stabile e ufficiale</strong> (non più alpha/beta).<br>
+          <div class="section-title">Novità</div>
+          <ul>
+            <li>Migliorata animazione iniziale</li>
+          </ul>
+        </div>
+        <a class="download-btn" href="https://github.com/diegoisme-dev/KH-Timer/releases/download/2.0.0/KHT_setup_2.0.0.exe">⬇️ Scarica l'ultima versione</a>
+        <a class="github-link" href="https://github.com/diegoisme-dev/KH-Timer/releases" target="_blank">Vai alla pagina delle Release su GitHub</a>
+        <a class="readme-link" href="https://github.com/diegoisme-dev/KH-Timer/blob/main/README.md" target="_blank">Leggi il README completo</a>
       </div>
-      <a class="download-btn" aria-label="Download dell'ultima versione disponibile di KH Timer" href="https://github.com/diegoisme-dev/KH-Timer/releases/download/1.3.4/KHT_setup_1.3.4.exe">
-        <span class="icon">⬇️</span> Scarica l'ultima versione
-      </a>
-      <a class="github-link" aria-label="La pagina delle Release di KH Timer su Github, dove sono presenti tutti i rilasci del Software" href="https://github.com/diegoisme-dev/KH-Timer/releases" target="_blank">
-        Vai alla pagina delle Release su GitHub
-      </a>
-      <a class="readme-link" aria-label="Il README completo di KH Timer, una presentazione del Software" href="https://github.com/diegoisme-dev/KH-Timer/blob/main/README.md" target="_blank">
-        Leggi il README completo
-      </a>
+
+      <!-- ENGLISH -->
+      <div data-lang="en">
+        <h1>KH TIMER - KINGDOM HALL TIMER</h1>
+        <div class="version"><strong>OFFICIAL VERSION 2.0.0</strong></div>
+        <div class="info-box">
+          <div class="section-title">Description</div>
+          KH Timer is advanced software for managing time and activities during meetings and assemblies in Kingdom Halls.  
+          This is the <strong>first stable and official release</strong> (no longer alpha/beta).<br>
+          <div class="section-title">What’s New</div>
+          <ul>
+            <li>Improved startup animation</li>
+          </ul>
+        </div>
+        <a class="download-btn" href="https://github.com/diegoisme-dev/KH-Timer/releases/download/2.0.0/KHT_setup_2.0.0.exe">⬇️ Download the latest version</a>
+        <a class="github-link" href="https://github.com/diegoisme-dev/KH-Timer/releases" target="_blank">Go to Releases page on GitHub</a>
+        <a class="readme-link" href="https://github.com/diegoisme-dev/KH-Timer/blob/main/README.md" target="_blank">Read the full README</a>
+      </div>
     </div>
+
+    <!-- COLONNA DESTRA -->
     <div class="right-col">
-      <div class="section-title">Requisiti di Sistema</div>
-      <div class="requirements">
+      <!-- ITALIANO -->
+      <div data-lang="it" class="active">
+        <div class="section-title">Requisiti di Sistema</div>
         <ul>
           <li>☕ <strong>Java 17</strong> installato</li>
           <li>✅ <strong>JRE minimo</strong>: 17</li>
           <li>🪟 <strong>Compatibile con</strong>: Windows 10 e 11 (32/64 bit)</li>
           <li>💾 <strong>RAM</strong>: 4GB minimo</li>
-          <li>🗂️ <strong>ROM</strong>: 150MB libero</li>
+          <li>🗂️ <strong>ROM</strong>: 20MB libero</li>
         </ul>
+        <div class="section-title">⚠️ Nota Importante</div>
+        <div class="note">
+          Se vuoi usare la <strong>proiezione su un secondo schermo</strong>, è <strong>fortemente consigliato</strong> l'uso di una <strong>scheda video e CPU in grado di supportare più monitor</strong>.
+        </div>
+        <div class="section-title">Aggiornamenti</div>
+        <div class="update">
+          Aggiornamenti sul repository ufficiale:<br>
+          👉 <a href="https://github.com/diegoisme-dev/KH-Timer" target="_blank">https://github.com/diegoisme-dev/KH-Timer</a>
+        </div>
+        <div class="email">
+          Segnala bug o suggerimenti: <br><strong>diegosantone.dev@gmail.com</strong><br><br>
+          <span style="font-size:0.95em; color:#ffe066;">Sviluppato e testato da Diego.</span>
+        </div>
       </div>
-      <div class="section-title">⚠️ Nota Importante</div>
-      <div class="note">
-        Se vuoi usare la <strong>proiezione su un secondo schermo</strong>, è <strong>fortemente consigliato</strong> l'utilizzo di una <strong>scheda video e una CPU in grado di supportare più monitor</strong>, soprattutto in ambienti dove un <strong>singolo computer deve gestire fino a 6 monitor contemporaneamente</strong> durante le adunanze.
-      </div>
-      <div class="section-title">Compatibilità con macOS</div>
-      <div class="section-title">Aggiornamenti</div>
-      <div class="update">
-        Gli aggiornamenti saranno pubblicati sul repository ufficiale GitHub:<br>
-        👉 <a href="https://github.com/diegoisme-dev/KH-Timer" aria-label="Il Repository ufficiale su GitHub di KH Timer, sviluppato da diegoisme-dev!" target="_blank" style="color:#7fd7ff;">https://github.com/diegoisme-dev/KH-Timer</a>
-      </div>
-      <div class="email">
-        Per segnalare bug o richiedere miglioramenti:<br>
-        <strong>diegosantone.dev@gmail.com</strong>
-        <br><br>
-        <span style="font-size:0.95em; color:#ffe066;">Sviluppato e testato da Diego.</span>
+
+      <!-- ENGLISH -->
+      <div data-lang="en">
+        <div class="section-title">System Requirements</div>
+        <ul>
+          <li>☕ <strong>Java 17</strong> installed</li>
+          <li>✅ <strong>Minimum JRE</strong>: 17</li>
+          <li>🪟 <strong>Compatible with</strong>: Windows 10 and 11 (32/64 bit)</li>
+          <li>💾 <strong>RAM</strong>: at least 4GB</li>
+          <li>🗂️ <strong>Disk space</strong>: 20MB free</li>
+        </ul>
+        <div class="section-title">⚠️ Important Note</div>
+        <div class="note">
+          If you want to use <strong>projection on a second screen</strong>, it is <strong>strongly recommended</strong> to use a <strong>graphics card and CPU capable of handling multiple monitors</strong>.
+        </div>
+        <div class="section-title">Updates</div>
+        <div class="update">
+          Updates will be published on the official repository:<br>
+          👉 <a href="https://github.com/diegoisme-dev/KH-Timer" target="_blank">https://github.com/diegoisme-dev/KH-Timer</a>
+        </div>
+        <div class="email">
+          Report bugs or suggestions: <br><strong>diegosantone.dev@gmail.com</strong><br><br>
+          <span style="font-size:0.95em; color:#ffe066;">Developed and tested by Diego.</span>
+        </div>
       </div>
     </div>
   </div>
+
+  <script>
+    const btnIt = document.getElementById("btn-it");
+    const btnEn = document.getElementById("btn-en");
+    const sections = document.querySelectorAll("[data-lang]");
+
+    function switchLang(lang) {
+      sections.forEach(s => {
+        s.classList.remove("active");
+        if (s.dataset.lang === lang) s.classList.add("active");
+      });
+      btnIt.classList.toggle("active", lang === "it");
+      btnEn.classList.toggle("active", lang === "en");
+    }
+
+    btnIt.addEventListener("click", () => switchLang("it"));
+    btnEn.addEventListener("click", () => switchLang("en"));
+  </script>
 </body>
 </html>
