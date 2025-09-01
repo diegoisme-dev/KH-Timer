@@ -45,7 +45,11 @@
           Questa è la <strong>prima versione stabile e ufficiale</strong> (non più alpha/beta).<br>
           <div class="section-title">Novità</div>
           <ul>
-            <li>Migliorata animazione iniziale</li>
+            <li>Aggiunte 2 nuove lingue: Inglese e Portoghese (BR).</li>
+            <li>Rimossi i programmi con "[...] visita Sorvegliante". Ora basta spuntare la checkbox in alto a destra per attivare la modalità "Visita Sorvegliante" e il programma si adatterà automaticamente.</li>
+            <li>Aggiunti i programmi delle Assemblee 2025-2026 <em>“Ascoltiamo ciò che lo spirito dice alle congregazioni”</em> e <em>“Adoriamo Dio con spirito e verità”</em>! SOLO IN ITALIANO!</li>
+            <li>Aggiunta la sezione Donazioni per supportare il progetto.</li>
+            <li>Risolti bug minori.</li>
           </ul>
         </div>
         <a class="download-btn" href="https://github.com/diegoisme-dev/KH-Timer/releases/download/2.0.0/KHT_setup_2.0.0.exe">⬇️ Scarica l'ultima versione</a>
@@ -63,7 +67,11 @@
           This is the <strong>first stable and official release</strong> (no longer alpha/beta).<br>
           <div class="section-title">What’s New</div>
           <ul>
-            <li>Improved startup animation</li>
+            <li>Added 2 new languages to KH Timer: English and Portuguese (BR).</li>
+            <li>Removed programs with "[...] Circuit Overseer Visit". Now, simply click the checkbox at the top right to activate "Circuit Overseer Visit" mode and the program will automatically adjust.</li>
+            <li>Added the 2025-2026 Assembly programs <em>“Listen to what the spirit says to the congregations”</em> and <em>“Worship God with spirit and truth”</em>! ITALIAN ONLY!</li>
+            <li>Added the Donations section to support the project.</li>
+            <li>Minor bugs fixed.</li>
           </ul>
         </div>
         <a class="download-btn" href="https://github.com/diegoisme-dev/KH-Timer/releases/download/2.0.0/KHT_setup_2.0.0.exe">⬇️ Download the latest version</a>
@@ -138,7 +146,12 @@
       });
       btnIt.classList.toggle("active", lang === "it");
       btnEn.classList.toggle("active", lang === "en");
+      localStorage.setItem("khLang", lang);
     }
+
+    // Carica lingua salvata
+    const savedLang = localStorage.getItem("khLang") || "it";
+    switchLang(savedLang);
 
     btnIt.addEventListener("click", () => switchLang("it"));
     btnEn.addEventListener("click", () => switchLang("en"));
