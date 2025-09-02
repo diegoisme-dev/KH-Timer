@@ -16,6 +16,7 @@ The BETA Version is now finished!
 - Added the 2025-2026 Assembly programs *“Listen to What the Spirit Says to the Congregations”* and *“Worship God with Spirit and Truth”*! **ITALIAN ONLY!**  
 - Added a **Donations** section to support the project.  
 - Minor bug fixes.  
+- Now you can also download updates directly from within the app!
 
 ---
 

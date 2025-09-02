@@ -12,6 +12,7 @@ All relevant changes to the **KH Timer** project will be documented in this file
 - Added the 2025-2026 Assembly programs "Listen to what the spirit says to the congregations" and "Worship God with spirit and truth"! ITALIAN ONLY!
 - Added the Donations section to support the project.
 - Minor bugs fixed.
+- Now you can also download updates directly from within the app!
 
 ---
 
