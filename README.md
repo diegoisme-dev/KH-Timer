@@ -1,6 +1,6 @@
 # KH TIMER - KINGDOM HALL TIMER
 
-**OFFICIAL VERSION 2.0.0**  
+**OFFICIAL VERSION 2.0.1**  
 
 ---
 
@@ -8,6 +8,13 @@
 
 KH Timer is an advanced software for managing time and activities during meetings and assemblies in Kingdom Halls.  
 The BETA Version is now finished!  
+
+### Main Features of Version 2.0.1
+
+- Minor bugs fixed.
+- Added new logs for admins.
+
+---
 
 ### Main Features of Version 2.0.0
 
@@ -39,7 +46,7 @@ If you plan to use **projection on a second screen**, it is **strongly recommend
 ## 📥 Download
 
 You can download the latest version of KH Timer here:  
-🔗 [Download KHT_2.0.0_setup.exe](https://github.com/diegoisme-dev/KH-Timer/releases/download/2.0.0/KHT_setup_2.0.0.exe)  
+🔗 [Download KHT_2.0.1_setup.exe](https://github.com/diegoisme-dev/KH-Timer/releases/download/2.0.1/KHT_setup_2.0.1.exe)  
 
 > If the link does not work, please visit the [Releases](https://github.com/diegoisme-dev/KH-Timer/releases) page directly.  
 

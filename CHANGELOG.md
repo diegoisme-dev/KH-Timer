@@ -4,6 +4,14 @@ All relevant changes to the **KH Timer** project will be documented in this file
 
 ---
 
+## [2.0.1] - 04-09-2025
+
+### 🆕 New Features
+- Minor bugs fixed.
+- Added new logs for admins.
+
+---
+
 ## [2.0.0] - 01-09-2025
 
 ### 🆕 New Features
