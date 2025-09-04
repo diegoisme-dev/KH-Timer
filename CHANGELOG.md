@@ -4,14 +4,6 @@ All relevant changes to the **KH Timer** project will be documented in this file
 
 ---
 
-## [2.0.1] - 04-09-2025
-
-### 🆕 New Features
-- Minor bugs fixed.
-- Added new logs for admins.
-
----
-
 ## [2.0.0] - 01-09-2025
 
 ### 🆕 New Features
@@ -21,6 +13,7 @@ All relevant changes to the **KH Timer** project will be documented in this file
 - Added the Donations section to support the project.
 - Minor bugs fixed.
 - Now you can also download updates directly from within the app!
+- Added new logs for admins.
 
 ---
 
