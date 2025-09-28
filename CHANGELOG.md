@@ -4,6 +4,15 @@ All relevant changes to the **KH Timer** project will be documented in this file
 
 ---
 
+## [2.0.1] - 28-09-2025
+
+### 🆕 New Features
+- Updated the way information was taken from the JW.ORG website 
+- Minor bugs fixed.
+- The log file has been removed
+
+---
+
 ## [2.0.0] - 01-09-2025
 
 ### 🆕 New Features
