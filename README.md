@@ -1,6 +1,6 @@
 # KH TIMER - KINGDOM HALL TIMER
 
-**OFFICIAL VERSION 2.0.1**  
+**OFFICIAL VERSION 2.1.0**  
 
 ---
 
@@ -16,7 +16,7 @@ The BETA Version is now finished!
 - Removed programs with "[...] Circuit Overseer Visit". From now on, simply check the box at the top right to enable **Circuit Overseer Visit Mode**, and the program will automatically adapt.  
 - Added the 2025-2026 Assembly programs *“Listen to What the Spirit Says to the Congregations”* and *“Worship God with Spirit and Truth”*! **ITALIAN ONLY!**  
 - Added a **Donations** section to support the project.  
-- Minor bug fixes.  
+- Major bug fixes.  
 - Now you can also download updates directly from within the app!
 
 ---

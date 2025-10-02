@@ -4,6 +4,17 @@ All relevant changes to the **KH Timer** project will be documented in this file
 
 ---
 
+## [2.1.0] - 02-10-2025
+
+### 🆕 New Features
+- Reminder Added
+- Now you can go through all the week avaiable
+- Updated the way information was taken from the JW.ORG website 
+- The parsing has been updated
+- Major and minor bugs fixed.
+
+---
+
 ## [2.0.1] - 28-09-2025
 
 ### 🆕 New Features

@@ -3,7 +3,7 @@
 **Software Name**: KH Timer  
 **Author**: Diego  
 **Version**: 2025  
-**Last Update**: September 2025  
+**Last Update**: October 2025  
 
 Copyright © 2025 Diego (diegosantone.dev@gmail.com)
 
