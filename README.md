@@ -6,8 +6,7 @@
 
 ## Description
 
-KH Timer is an advanced software for managing time and activities during meetings and assemblies in Kingdom Halls.  
-The BETA Version is now finished!  
+KH Timer is an advanced software for managing time and activities during meetings and assemblies in Kingdom Halls.
 
 
 ## System Requirements
