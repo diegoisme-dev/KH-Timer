@@ -1,6 +1,6 @@
 # KH TIMER - KINGDOM HALL TIMER
 
-**OFFICIAL VERSION 2.2.0**  
+**OFFICIAL VERSION 2.2.1**  
 
 ---
 
@@ -12,7 +12,6 @@ KH Timer is an advanced software for managing time and activities during meeting
 ## System Requirements
 
 - ☕ **Java 17** installed  
-- ✅ **Minimum JRE**: 17  
 - 🪟 **Compatible with**: Windows 10 and 11 (32/64 bit)  
 - 💾 **RAM**: at least 4GB  
 - 🗂️ **Disk Space**: 20MB free  
@@ -28,7 +27,7 @@ If you plan to use **projection on a second screen**, it is **strongly recommend
 ## 📥 Download
 
 You can download the latest version of KH Timer here:  
-🔗 [Download KHT_2.2.0_setup.exe](https://github.com/diegoisme-dev/KH-Timer/releases/download/2.0.1/KHT_setup_2.2.0.exe)  
+🔗 [Download KHT_2.2.1_setup.exe](https://github.com/diegoisme-dev/KH-Timer/releases/download/2.2.1/KHT_setup_2.2.1.exe)  
 
 > If the link does not work, please visit the [Releases](https://github.com/diegoisme-dev/KH-Timer/releases) page directly.  
 
