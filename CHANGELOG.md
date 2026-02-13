@@ -4,6 +4,25 @@ All relevant changes to the **KH Timer** project will be documented in this file
 
 ---
 
+## [3.0.0] - 13-02-2026
+
+### 🆕 New Features
+- Major bugs fixed
+- Second monitor Graphic Adjustment
+- First simply time option added - more to come
+- Internal Code Reworked
+- Now when music is played is not possible to interract with the timer for safety reasons
+- A new and safer way to import JW Programs has been introduced, however if it fails (it shouldn't) it has a backup (old method)
+- Now you can choose to Import both weekly and weekend meeting, and you can move from one to another with the arrows
+- Future memorial programs already added. In the memorial weeknd of 2026 the Weekly meeting won't be imported following diectives from Governing Body
+- Some element of GUI has been changed such Settings, Program chooser, every Part countdown and the internal timer display
+- There is now a option to have also the clock on top of the timer during the meetings
+- Some internal API have been changed
+- There is now a possibility to ask for "Custom" programs like Wedding, to ask for one email us to: khtsoftware@gmail.com
+- Now when there is a new Update just released or installed for a week it will display all the new changes inside the Software
+
+---
+
 ## [2.2.1] - 17-11-2025
 
 ### 🆕 New Features
