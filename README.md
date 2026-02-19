@@ -1,6 +1,6 @@
 # KH TIMER - KINGDOM HALL TIMER
 
-**OFFICIAL VERSION 3.0.0**  
+**OFFICIAL VERSION 3.1.0**  
 
 ---
 
@@ -27,7 +27,7 @@ If you plan to use **projection on a second screen**, it is **strongly recommend
 ## 📥 Download
 
 You can download the latest version of KH Timer here:  
-🔗 [Download KHT_3.0.0_setup.exe](https://github.com/diegoisme-dev/KH-Timer/releases/download/3.0.0/KHT_setup_3.0.0.exe)  
+🔗 [Download KHT_3.1.0_setup.exe](https://github.com/diegoisme-dev/KH-Timer/releases/download/3.1.0/KHT_setup_3.1.0.exe)  
 
 > If the link does not work, please visit the [Releases](https://github.com/diegoisme-dev/KH-Timer/releases) page directly.  
 

@@ -4,6 +4,19 @@ All relevant changes to the **KH Timer** project will be documented in this file
 
 ---
 
+## [3.1.0] - 19-02-2026
+
+### 🆕 New Features
+- Risolti bug minori
+- Aggiunte più funzionalità di stile, potrebbero presentarsi bug riguardo al tema Chiaro. (Più opzioni di stile presto)
+- Aggiunta la password Admin per questioni di sicurezza
+- Aggiunti gli schemi personalizzati in una schermata dedicata nelle impostazioni
+- Refactoring file necessari per il funzionamento di KH Timer
+- Migrazione da file txt a JSON
+- Animazione aggiunta scorrimento parte (solo monitor operatore)
+
+---
+
 ## [3.0.0] - 13-02-2026
 
 ### 🆕 New Features
