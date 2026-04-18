@@ -4,6 +4,22 @@ All relevant changes to the **KH Timer** project will be documented in this file
 
 ---
 
+## [3.2.0] - 18-04-2026
+
+### 🟢 Fixes and Improvements
+- 19 monitor-related issues resolved: improved monitor detection stability, cross-platform behavior, safer monitor mapping, migration compatibility for existing users, fallback monitor chooser, and follow-up fixes for edge cases.
+- 6 security and configuration issues resolved: moved runtime secrets/config out of hardcoded source values, improved configuration lookup reliability, and reduced noisy optional-secret warnings.
+- 2 authentication hardening issues resolved: safer password handling with char-array cleanup and reduced sensitive data exposure in remote access flow.
+- 1 remote program reliability issue resolved: remote program endpoint is now configurable at runtime with safe fallback behavior.
+- 1 realtime notification reliability issue resolved: notification listener now uses runtime-configured key/channel/event settings for safer deployment flexibility.
+- 1 notification sender usability issue resolved: sender diagnostics now show clearer HTTP/network error feedback for faster troubleshooting.
+- 1 music playback blocking issue resolved: music no longer auto-stops when current time is already beyond meeting start threshold.
+- 2 settings usability/UX issues resolved: refreshed settings graphics and added Enter-key submit behavior for important inputs (including admin password and remote start fields).
+- 1 documentation consolidation task completed: combined fixes and outcomes into a single public-safe consolidated report.
+- Total addressed in this cycle: 34 items (functional issues, reliability/security fixes, and release documentation updates).
+
+---
+
 ## [3.1.0] - 19-02-2026
 
 ### 🆕 New Features

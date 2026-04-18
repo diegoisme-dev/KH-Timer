@@ -5,7 +5,7 @@
 
 body {
     background: rgb(19, 19, 19);
-    overflow: hidden;
+    overflow-x: hidden;
     color: white;
 }
 
@@ -82,6 +82,93 @@ span:nth-of-type(2) h5 {
     text-align: center;
 }
 
+span:nth-of-type(2) h4 {
+    font-family: sans-serif;
+    font-size: 1vw;
+    text-align: center;
+    margin-top: 10px;
+}
+
 span:nth-of-type(2) {
     line-height: 1.6vw;
+}
+
+.release-notes {
+    position: relative;
+    z-index: 2;
+    max-width: 900px;
+    margin: -140px auto 40px;
+    padding: 24px;
+    background: rgba(0, 0, 0, 0.65);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 18px;
+    font-family: sans-serif;
+}
+
+.release-notes h2 {
+    font-size: 1.8rem;
+    margin-bottom: 14px;
+}
+
+.release-notes ul {
+    padding-left: 20px;
+    line-height: 1.5;
+}
+
+.release-notes li {
+    margin-bottom: 8px;
+}
+
+.release-notes p {
+    margin-top: 12px;
+    font-weight: 700;
+}
+
+@media (max-width: 900px) {
+    .header {
+        flex-direction: column;
+        justify-content: center;
+        gap: 16px;
+        text-align: center;
+    }
+
+    .header h1 {
+        font-size: 14vw;
+    }
+
+    .header p:nth-of-type(1) {
+        font-size: 5vw;
+    }
+
+    .header p:nth-of-type(2) {
+        font-size: 3.5vw;
+    }
+
+    .header button {
+        width: 52vw;
+        height: 56px;
+        font-size: 6vw;
+        border-radius: 60px;
+    }
+
+    span:nth-of-type(2) h4 {
+        font-size: 4vw;
+    }
+
+    span:nth-of-type(2) h5 {
+        font-size: 3.3vw;
+    }
+
+    span:nth-of-type(2) {
+        line-height: 1.4;
+    }
+
+    .release-notes {
+        margin: -80px 14px 24px;
+        padding: 18px;
+    }
+
+    .release-notes h2 {
+        font-size: 1.4rem;
+    }
 }
