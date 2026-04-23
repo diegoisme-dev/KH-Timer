@@ -1,6 +1,6 @@
 # KH TIMER - KINGDOM HALL TIMER
 
-**OFFICIAL VERSION 3.2.0**  
+**OFFICIAL VERSION 3.2.2**  
 
 ---
 
@@ -27,7 +27,7 @@ If you plan to use **projection on a second screen**, it is **strongly recommend
 ## 📥 Download
 
 You can download the latest version of KH Timer here:  
-🔗 [Download KHT_3.2.0_setup.exe](https://github.com/diegoisme-dev/KH-Timer/releases/download/3.2.0/KHT_setup_3.2.0.exe)  
+🔗 [Download KHT_3.2.2_setup.exe](https://github.com/diegoisme-dev/KH-Timer/releases/download/3.2.2/KHT_setup_3.2.2.exe)  
 
 > If the link does not work, please visit the [Releases](https://github.com/diegoisme-dev/KH-Timer/releases) page directly.  
 
@@ -35,7 +35,7 @@ You can download the latest version of KH Timer here:
 
 ## What's New in 3.2.0
 
-- 19 monitor-related fixes for better detection stability, safer monitor mapping, and edge-case reliability.
+- 20 monitor-related fixes for better detection stability, safer monitor mapping, and edge-case reliability.
 - 6 security/configuration fixes for runtime secret handling, config lookup reliability, and cleaner optional-secret behavior.
 - 2 authentication hardening updates with safer password handling and reduced sensitive-data exposure.
 - Reliability upgrades for remote program endpoint configuration and realtime notification listener settings.
@@ -55,5 +55,5 @@ Updates will be published on the official GitHub repository:
 
 ---
 
-To report bugs or request improvements, please write to this email: **diegosantone.dev@gmail.com**  
+To report bugs or request improvements, please write to this email: **khtsoftware@gmail.com**  
 > *Developed and tested by Diego Santone and Donato Perrone.*

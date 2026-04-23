@@ -4,6 +4,20 @@ All relevant changes to the **KH Timer** project will be documented in this file
 
 ---
 
+## [3.2.2] - 23-04-2026
+
+### 🟢 Fixes
+- Resolved an anomaly to the monitor projection
+
+---
+
+## [3.2.1] - 21-04-2026
+
+### 🟢 Fixes
+- Migration back from AWT to JNA and Registry for monitor mangagement 
+
+---
+
 ## [3.2.0] - 18-04-2026
 
 ### 🟢 Fixes and Improvements
