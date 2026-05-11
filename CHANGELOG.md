@@ -4,6 +4,13 @@ All relevant changes to the **KH Timer** project will be documented in this file
 
 ---
 
+## [3.2.3] - 11-05-2026
+
+### 🟢 Fixes
+- Minor bug fixed
+
+---
+
 ## [3.2.2] - 23-04-2026
 
 ### 🟢 Fixes
